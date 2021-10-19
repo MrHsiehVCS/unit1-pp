@@ -11,8 +11,11 @@ For this project, you will be fixing various methods.
 - Compound Assignment
 - Casting
 
------
+---------------------------
 Below this line is unit 2 project
+---------------------------
+---------------------------
+---
 
 ## PART A - Car.java
 

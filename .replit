@@ -1,0 +1,3 @@
+language = "java"
+run = "javac -classpath .:/run_dir/junit-4.12.jar:target/dependency/* -d ./target src/main/java/u1pp/*.java && cd ./target && java -classpath .:/run_dir/junit-4.12.jar:target/dependency/* u1pp/Main"
+ignoredPaths=[".git", ".settings", ".gitignore", ".project"]

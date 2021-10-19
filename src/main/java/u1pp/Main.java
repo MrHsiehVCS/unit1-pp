@@ -12,6 +12,7 @@ class Main {
     Scanner scanner = new Scanner(System.in);
 
     //test your code here.
+		System.out.println("Hello world");
 
     scanner.close();
   }
